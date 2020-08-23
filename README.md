@@ -4,6 +4,7 @@ I'm just some random guy that likes to code sometimes. I don't do much, except w
 
 ## About me
 - 🐉 Developer for Blue Dragon, a Minecraft server featuring unique minigames, private server hosting, and more. You can learn more at https://bluedragonmc.com/p/about.
+- 🤖 Currently working on an all-in-one customizable Discord bot.
 - 🏫 High school student learning to code
 - ⛏ Minecraft player and developer
 - 🎮 Gamer in my spare time
